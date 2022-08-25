@@ -1,10 +1,10 @@
 /*
 	Program : Java program to print follwing pattern 		
-			  1		
-			  12		
-			  123		
-			  1234		
-              12345 
+		  1		
+		  12		
+		  123		
+		  1234		
+        	  12345
 	@author: Royston
 	@date  : 25 August 	
 */
