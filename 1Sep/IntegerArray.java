@@ -1,6 +1,6 @@
 /*
 	Program : Write a program that reads a set of integers, and then prints the sum 
-			  of the even and odd integers.(using arrays)  
+		  of the even and odd integers.(using arrays)  
 	@author : Royston
 	@date : 1 September	
 */
