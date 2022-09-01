@@ -1,7 +1,7 @@
 /*
 	Program : Write a program to create a room class,the attributes of this class is roomNo,
-			  roomtype, roomarea and ACmachine. In this class the member functions are
-			  setdata and displaydata.
+		  roomtype, roomarea and ACmachine. In this class the member functions are
+		  setdata and displaydata.
 	@author : Royston
 	@date : 1 September	
 */
