@@ -1,7 +1,7 @@
 /*
 	Program : Java program to print a pattern 		
-				*		
-			  *  *		
+			*		
+		      *  *		
 		   *    *   *		
 		*      *    *    *		
 	@author : Royston
